@@ -38,7 +38,7 @@ public class Main {
 
             // mostra el area del circulo
             double area = circulo.calcularArea();
-            System.out.println("El radio del circulo es: " + area);
+            System.out.println("El area del circulo es: " + area);
             scanner.close();
         }
     }
